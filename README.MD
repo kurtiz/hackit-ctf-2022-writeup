@@ -26,4 +26,5 @@ the ctf and also the organizers to help. I will try as much possible to make it 
 | [Warm Up 1](https://github.com/kurtiz/hackit-ctf-2022-writeup/blob/main/Warm%20Up/warm%20up%201/warm_up_1.md) | Warm Up   | 10     |
 | [Warm Up 2](https://github.com/kurtiz/hackit-ctf-2022-writeup/blob/main/Warm%20Up/warm%20up%202/warm_up_2.md) | Warm Up   | 10     |
 | [Warm Up 3](https://github.com/kurtiz/hackit-ctf-2022-writeup/blob/main/Warm%20Up/warm%20up%203/warm_up_3.md) | Warm Up   | 10     |
-Have fun solving the challenges 😉
+
+### Have fun solving the challenges 😉
