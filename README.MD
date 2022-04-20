@@ -20,10 +20,10 @@ and how I solve them. I couldn't solve all challenges, so I asked colleagues who
 the ctf and also the organizers to help. I will try as much possible to make it easy to understand.
 <br>
 # SOLVED
-| Challenge                                                                                                   | Category  | Score  |
-|-------------------------------------------------------------------------------------------------------------|-----------|--------|
-| [The Rules](https://github.com/kurtiz/hackit-ctf-2022-writeup/blob/main/Warm%20Up/the%20rules/the_rules.md) | Warm Up   | 10     |
-| [Warm Up 1](https://github.com/kurtiz/hackit-ctf-2022-writeup/blob/main/Warm%20Up/the%20rules/warm_up_1.md) | Warm Up 1 | 10     |
-| [Warm Up 2](https://github.com/kurtiz/hackit-ctf-2022-writeup/blob/main/Warm%20Up/the%20rules/warm_up_2.md) | Warm Up 2 | 10     |
-| [Warm Up 3](https://github.com/kurtiz/hackit-ctf-2022-writeup/blob/main/Warm%20Up/the%20rules/warm_up_3.md) | Warm Up 3 | 10     |
+| Challenge                                                                                                     | Category  | Score  |
+|---------------------------------------------------------------------------------------------------------------|-----------|--------|
+| [The Rules](https://github.com/kurtiz/hackit-ctf-2022-writeup/blob/main/Warm%20Up/the%20rules/the_rules.md)   | Warm Up   | 10     |
+| [Warm Up 1](https://github.com/kurtiz/hackit-ctf-2022-writeup/blob/main/Warm%20Up/warm%20up%201/warm_up_1.md) | Warm Up   | 10     |
+| [Warm Up 2](https://github.com/kurtiz/hackit-ctf-2022-writeup/blob/main/Warm%20Up/warm%20up%202/warm_up_2.md) | Warm Up   | 10     |
+| [Warm Up 3](https://github.com/kurtiz/hackit-ctf-2022-writeup/blob/main/Warm%20Up/warm%20up%203/warm_up_3.md) | Warm Up   | 10     |
 Have fun solving the challenges 😉
