@@ -1,4 +1,4 @@
-#The Rules - 10 points
+# The Rules - 10 points
 ## Rules
 > Sharing the flags between different players is prohibited.
 Brute Force attacks on the challenge submission portal or challenges links are not allowed.
