@@ -29,5 +29,6 @@ the ctf and also the organizers to help. I will try as much possible to make it 
 | [General Knowledge 1](https://github.com/kurtiz/hackit-ctf-2022-writeup/blob/main/Misc/general%20knowledge%201/general_knowledge_1.md) | Misc     | 30    |
 | [General Knowledge 2](https://github.com/kurtiz/hackit-ctf-2022-writeup/blob/main/Misc/general%20knowledge%202/general_knowledge_2.md) | Misc     | 30    |
 | [General Knowledge 3](https://github.com/kurtiz/hackit-ctf-2022-writeup/blob/main/Misc/general%20knowledge%203/general_knowledge_3.md) | Misc     | 30    |
+| [Open the Puff](https://github.com/kurtiz/hackit-ctf-2022-writeup/blob/main/Stego/open%20the%20puff/open_the_puff.md)                  | Stego    | 30    |
 
 ### Have fun solving the challenges 😉
